@@ -1,0 +1,4 @@
+shap==0.41.0
+giskard==1.9.4
+deepchecks==0.17.5
+weightwatcher==0.7.3.1
